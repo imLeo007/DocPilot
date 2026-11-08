@@ -1,0 +1,502 @@
+[
+  {
+    "id": "bench_001",
+    "question": "Where was Lencho's house located in the valley?",
+    "reference_answer": "It was situated on the crest of a low hill, and was the only house in the entire valley."
+  },
+  {
+    "id": "bench_002",
+    "question": "Why did Lencho compare the falling raindrops to new coins?",
+    "reference_answer": "He viewed the rain as essential for his ripe corn crop, expecting it to yield a rich harvest that would bring him money."
+  },
+  {
+    "id": "bench_003",
+    "question": "What destruction did the hailstorm cause to Lencho's crops?",
+    "reference_answer": "The hailstorm lasted for an hour, stripping the trees of leaves, ruining the corn completely, and leaving the field looking as if covered in salt."
+  },
+  {
+    "id": "bench_004",
+    "question": "Why did the postmaster decide to collect money and reply to Lencho's letter?",
+    "reference_answer": "He was deeply moved by Lencho's unshakeable faith in God and wanted to preserve that faith without letting it be disillusioned."
+  },
+  {
+    "id": "bench_005",
+    "question": "Why did Lencho become angry when he counted the money inside the envelope?",
+    "reference_answer": "He found only seventy pesos instead of the hundred he had asked for, and believed the post office employees had stolen the remaining thirty pesos."
+  },
+  {
+    "id": "bench_006",
+    "question": "What change of mood occurs for the poet in Robert Frost's poem 'Dust of Snow'?",
+    "reference_answer": "A crow shaking down fine snow from a hemlock tree gladdens the poet's heart and saves a day he had previously regretted."
+  },
+  {
+    "id": "bench_007",
+    "question": "What human emotions are represented by 'fire' and 'ice' in Robert Frost's poem?",
+    "reference_answer": "Fire represents burning human desire, greed, and passion, while ice represents coldness, rigidity, indifference, and hatred."
+  },
+  {
+    "id": "bench_008",
+    "question": "Where did the presidential inauguration ceremony of Nelson Mandela take place on 10 May 1994?",
+    "reference_answer": "It took place in the sandstone amphitheatre formed by the Union Buildings in Pretoria."
+  },
+  {
+    "id": "bench_009",
+    "question": "Who were sworn in as the deputy presidents alongside Nelson Mandela?",
+    "reference_answer": "Mr. de Klerk was sworn in as the second deputy president, and Thabo Mbeki was sworn in as the first deputy president."
+  },
+  {
+    "id": "bench_010",
+    "question": "Which two national anthems were sung during South Africa's democratic inauguration?",
+    "reference_answer": "Whites sang 'Nkosi Sikelel -iAfrika' and blacks sang 'Die Stem', the former anthem of the Republic."
+  },
+  {
+    "id": "bench_011",
+    "question": "How did Nelson Mandela define courage based on his struggle against apartheid?",
+    "reference_answer": "He learned that courage is not the absence of fear, but the triumph over it, where a brave man is one who conquers his fear."
+  },
+  {
+    "id": "bench_012",
+    "question": "What twin obligations does Nelson Mandela state that every man possesses in life?",
+    "reference_answer": "An obligation to his family, parents, wife, and children, and an obligation to his people, community, and country."
+  },
+  {
+    "id": "bench_013",
+    "question": "Why does Mandela state that the oppressor is as unfree as the oppressed?",
+    "reference_answer": "Because anyone who deprives another person of freedom is a prisoner of hatred, locked behind the bars of prejudice and narrow-mindedness."
+  },
+  {
+    "id": "bench_014",
+    "question": "How is the tiger's natural hunting behavior contrasted with its captive state in 'A Tiger in the Zoo'?",
+    "reference_answer": "In nature the tiger lurks in shadows and stalks deer near water holes, whereas in captivity it is locked in a concrete cell, pacing its restricted cage."
+  },
+  {
+    "id": "bench_015",
+    "question": "Why was the young seagull afraid to take his first flight from the cliff ledge?",
+    "reference_answer": "He looked down at the vast expanse of sea beneath the cliff and felt convinced that his wings would never support his weight."
+  },
+  {
+    "id": "bench_016",
+    "question": "What compelled the young seagull to finally dive off the ledge?",
+    "reference_answer": "He was driven to desperation by hunger when his mother halted just out of reach with a piece of fish in her beak, prompting him to dive forward."
+  },
+  {
+    "id": "bench_017",
+    "question": "What happened to the pilot's navigational instruments inside the storm in 'The Black Aeroplane'?",
+    "reference_answer": "Inside the storm clouds, his compass spun uncontrollably and went dead, followed by the failure of his radio and other flight instruments."
+  },
+  {
+    "id": "bench_018",
+    "question": "What shocking fact did the control tower operator reveal to the Dakota pilot after he landed?",
+    "reference_answer": "She reported that no other aircraft was flying during the storm and that his Dakota was the only plane visible on the radar."
+  },
+  {
+    "id": "bench_019",
+    "question": "According to the humorous poem 'How to Tell Wild Animals', how can one identify a Bengal Tiger?",
+    "reference_answer": "By encountering a noble beast with distinct black stripes across a yellow body that promptly advances to devour you."
+  },
+  {
+    "id": "bench_020",
+    "question": "What profound lesson does the young boy learn after losing his ball in 'The Ball Poem'?",
+    "reference_answer": "He confronts the epistemology of loss, learning personal responsibility and the reality that cherished possessions can be lost permanently in a material world."
+  },
+  {
+    "id": "bench_021",
+    "question": "Why did Anne Frank decide to start writing in a diary?",
+    "reference_answer": "She felt that paper has more patience than people, and she lacked a true intimate friend with whom she could confide her deepest feelings."
+  },
+  {
+    "id": "bench_022",
+    "question": "What pet name did Anne Frank give to her diary?",
+    "reference_answer": "She personified her diary as a cherished friend and named it 'Kitty'."
+  },
+  {
+    "id": "bench_023",
+    "question": "Why did Mr. Keesing repeatedly punish Anne Frank with extra homework assignments?",
+    "reference_answer": "He was an old-fashioned mathematics master who grew annoyed with her because she talked constantly during his lessons."
+  },
+  {
+    "id": "bench_024",
+    "question": "How did Anne argue in her first essay that talking was a student's trait?",
+    "reference_answer": "She claimed she had inherited the tendency from her mother, who was just as talkative, and that little could be done about inherited family traits."
+  },
+  {
+    "id": "bench_025",
+    "question": "What was the narrative of the verse essay that Anne submitted for her third punishment?",
+    "reference_answer": "It told a satirical story about a father swan who bit his three baby ducklings to death because they quacked incessantly, which made Mr. Keesing laugh."
+  },
+  {
+    "id": "bench_026",
+    "question": "What alternative fantasy identities does Amanda envision to escape her guardian's scolding?",
+    "reference_answer": "She imagines herself as a solitary mermaid drifting on an emerald sea, an orphan walking barefoot in soft dust, and Rapunzel secluded in a tranquil tower."
+  },
+  {
+    "id": "bench_027",
+    "question": "Where did Wanda Petronski sit in Room Thirteen and why was that corner notable?",
+    "reference_answer": "She sat in the next-to-last seat of the back row, a noisy corner where poorly scoring boys sat, characterized by scuffling feet and dirt on the floor."
+  },
+  {
+    "id": "bench_028",
+    "question": "Why did Peggy and Maddie invent the daily 'dresses game' to question Wanda?",
+    "reference_answer": "Wanda wore the same faded, unironed blue dress every day yet claimed to have a hundred dresses and sixty pairs of shoes lined up in her closet."
+  },
+  {
+    "id": "bench_029",
+    "question": "Why was Maddie reluctant to openly ask Peggy to stop teasing Wanda?",
+    "reference_answer": "Maddie was poor herself, wore hand-me-down clothes, and feared that Peggy and the other classmates might turn on her and make her the next target."
+  },
+  {
+    "id": "bench_030",
+    "question": "Who won the drawing and colouring contest for the girls in Room Thirteen?",
+    "reference_answer": "Wanda Petronski won the contest by submitting one hundred individual dress designs, each brilliantly drawn and uniquely colored."
+  },
+  {
+    "id": "bench_031",
+    "question": "What reason did Jan Petronski give in his note for withdrawing his children from school?",
+    "reference_answer": "He stated they were moving to a large city where people would no longer mock them with the slur 'Pollack' or ridicule their unfamiliar family name."
+  },
+  {
+    "id": "bench_032",
+    "question": "What vow did Maddie make to herself after visiting Wanda's deserted home at Boggins Heights?",
+    "reference_answer": "She resolved never to stand by silently again, deciding that she would speak out against anyone bullying another, even at the cost of losing a friend."
+  },
+  {
+    "id": "bench_033",
+    "question": "What startling detail did Maddie and Peggy discover in the dress drawings Wanda gifted them?",
+    "reference_answer": "Upon close inspection, each girl found that the face and head drawn in the respective pictures bore an exact resemblance to herself."
+  },
+  {
+    "id": "bench_034",
+    "question": "Why does Walt Whitman express a desire to live with animals in his poem 'Animals'?",
+    "reference_answer": "He admires that animals are placid and self-contained, never whining about their condition, weeping for sins, or obsessing over material possessions."
+  },
+  {
+    "id": "bench_035",
+    "question": "What traditional role and title does a village baker hold in Goan society?",
+    "reference_answer": "The baker, known locally as a 'pader', serves as a daily friend and guide, heralding his arrival with the musical jingle of a bamboo staff."
+  },
+  {
+    "id": "bench_036",
+    "question": "What traditional attire did Goan bread-sellers wear in the Portuguese colonial period?",
+    "reference_answer": "They wore a distinctive single-piece long frock that reached down to their knees, known as the 'kabai'."
+  },
+  {
+    "id": "bench_037",
+    "question": "What traditional foods make the baker's furnace indispensable during Goan festivities?",
+    "reference_answer": "Sweet bread called 'bol' is required for marriages, sandwiches for engagements, and cakes and 'bolinhas' for Christmas and other holidays."
+  },
+  {
+    "id": "bench_038",
+    "question": "What origin stories explain the lineage of the Kodavu people in Coorg?",
+    "reference_answer": "They are believed to be of Greek or Arabic descent, either from stranded soldiers of Alexander's army or through Arab travelers whose traditional 'kuppia' coat resembles Arab dress."
+  },
+  {
+    "id": "bench_039",
+    "question": "What military distinction is held by the people and regiment of Coorg in India?",
+    "reference_answer": "The Coorg Regiment is one of the most decorated in the Indian Army, General Cariappa was the first Army Chief, and Kodavus are permitted to carry firearms without a licence."
+  },
+  {
+    "id": "bench_040",
+    "question": "According to Rajvir in 'Tea from Assam', how much tea is consumed globally every day?",
+    "reference_answer": "He mentions that over eighty crore (800 million) cups of tea are drunk each day throughout the world."
+  },
+  {
+    "id": "bench_041",
+    "question": "What Indian legend explains the origin of the tea plant?",
+    "reference_answer": "The Buddhist ascetic Bodhidharma cut off his eyelids to prevent sleeping during meditation, and ten tea plants sprang up from the discarded eyelids whose leaves banished sleep."
+  },
+  {
+    "id": "bench_042",
+    "question": "How did Gavin Maxwell obtain his pet otter in Southern Iraq?",
+    "reference_answer": "His friend arranged for two Arabs to deliver an otter in a squirming sack to Maxwell's bedroom at the Consulate-General in Basra."
+  },
+  {
+    "id": "bench_043",
+    "question": "What zoological classification was assigned to Maxwell's newly discovered otter species?",
+    "reference_answer": "Zoologists named the species Lutrogale perspicillata maxwelli, commonly known as Maxwell's otter."
+  },
+  {
+    "id": "bench_044",
+    "question": "What game did Mijbil invent with Maxwell's damaged suitcase in London?",
+    "reference_answer": "He rolled a ping-pong ball down the inclined lid of the damaged suitcase, raced to ambush it at the bottom, and carried it back to the top."
+  },
+  {
+    "id": "bench_045",
+    "question": "How does Carl Sandburg describe the arrival and movement of fog?",
+    "reference_answer": "He depicts the fog arriving silently on little cat feet, sitting on silent haunches overlooking the harbour and city, and then moving onward."
+  },
+  {
+    "id": "bench_046",
+    "question": "How did eight-year-old Valli accumulate the sixty paise required for her bus ride?",
+    "reference_answer": "She systematically saved stray coins and resisted childhood temptations to buy peppermints, toys, balloons, or ride the fair's merry-go-round."
+  },
+  {
+    "id": "bench_047",
+    "question": "What sight dampened Valli's enthusiasm during her return journey on the bus?",
+    "reference_answer": "She saw the dead body of the same young cow that had run playfully in front of the bus earlier, now struck down and bloodied by the roadside."
+  },
+  {
+    "id": "bench_048",
+    "question": "How did Custard the dragon react when a pirate broke into Belinda's house?",
+    "reference_answer": "While the other brave pets fled or hid, Custard charged the pirate, snorted like an engine, clashed his tail, and swallowed him whole."
+  },
+  {
+    "id": "bench_049",
+    "question": "What condition did the Buddha set when Kisa Gotami asked for medicine to revive her dead child?",
+    "reference_answer": "He instructed her to bring a handful of mustard seed from a household where no child, husband, parent, or friend had ever died."
+  },
+  {
+    "id": "bench_050",
+    "question": "What dispute triggers the initial argument between Lomov and Natalya in Chekhov's 'The Proposal'?",
+    "reference_answer": "Lomov mentions his ownership of the Oxen Meadows wedged between Chubukov's birchwoods and the Burnt Marsh, which Natalya insists belongs to her family."
+  },
+  {
+    "id": "bench_051",
+    "question": "What did the shattered symbols in the foreground of Frédéric Sorrieu's 1848 print represent?",
+    "reference_answer": "They represented the ruined remnants and defeat of absolutist monarchical institutions across Europe."
+  },
+  {
+    "id": "bench_052",
+    "question": "How did Ernst Renan define the true foundation of a nation in his Sorbonne lecture?",
+    "reference_answer": "He defined a nation as the culmination of shared endeavors, sacrifice, common glories in the past, and a daily plebiscite among its inhabitants."
+  },
+  {
+    "id": "bench_053",
+    "question": "What administrative reforms were established across Europe by the Napoleonic Code of 1804?",
+    "reference_answer": "It abolished birth privileges, established legal equality, secured private property rights, eliminated feudal dues, and standardized administrative divisions."
+  },
+  {
+    "id": "bench_054",
+    "question": "Why did local populations in conquered European territories grow hostile to French administrative rule?",
+    "reference_answer": "Initial enthusiasm waned because administrative reforms were accompanied by increased taxation, strict press censorship, and forced military conscription."
+  },
+  {
+    "id": "bench_055",
+    "question": "What was the purpose and impact of the Prussian customs union known as the Zollverein in 1834?",
+    "reference_answer": "It abolished internal tariff barriers among German states and reduced the number of separate currencies from over thirty down to two."
+  },
+  {
+    "id": "bench_056",
+    "question": "What was the primary geopolitical goal of the European powers at the Congress of Vienna in 1815?",
+    "reference_answer": "To restore the monarchies overthrown by Napoleon and establish a conservative order by encircling France with strong buffer states."
+  },
+  {
+    "id": "bench_057",
+    "question": "What two secret societies were founded by the Italian revolutionary Giuseppe Mazzini?",
+    "reference_answer": "He established Young Italy in Marseilles and Young Europe in Berne to promote unified democratic republics."
+  },
+  {
+    "id": "bench_058",
+    "question": "How did the Treaty of Constantinople in 1832 conclude the Greek war of independence?",
+    "reference_answer": "It formally recognized Greece as an independent sovereign nation, separating it from the control of the Ottoman Empire."
+  },
+  {
+    "id": "bench_059",
+    "question": "How did Johann Gottfried Herder view the role of folklore in creating German national identity?",
+    "reference_answer": "He asserted that the true spirit of the nation (volksgeist) was preserved among the common folk (das volk) through traditional songs, poetry, and dances."
+  },
+  {
+    "id": "bench_060",
+    "question": "What caused the Silesian weavers' revolt of 1845 as reported by Wilhelm Wolff?",
+    "reference_answer": "Contractors who provided raw materials and purchased finished textiles drastically reduced payments to workers despite widespread economic desperation."
+  },
+  {
+    "id": "bench_061",
+    "question": "Why did the Frankfurt Parliament of 1848 in the Church of St. Paul ultimately dissolve?",
+    "reference_answer": "Friedrich Wilhelm IV rejected the crown under a constitution, the middle-class delegates lost worker support, and Prussian troops dispersed the assembly."
+  },
+  {
+    "id": "bench_062",
+    "question": "Who served as the chief architect of German national unification between 1864 and 1871?",
+    "reference_answer": "Otto von Bismarck, the Chief Minister of Prussia, who carried out unification through three victorious wars against Austria, Denmark, and France."
+  },
+  {
+    "id": "bench_063",
+    "question": "How was the kingdom of Italy officially unified under Victor Emmanuel II in 1861?",
+    "reference_answer": "Through diplomatic alliances engineered by Count Cavour, combined with military campaigns by Giuseppe Garibaldi and his volunteer Red Shirts across southern Italy."
+  },
+  {
+    "id": "bench_064",
+    "question": "How did the British Act of Union of 1707 alter the political standing of Scotland?",
+    "reference_answer": "It merged England and Scotland into the United Kingdom of Great Britain, establishing an English-dominated parliament that repressed Gaelic culture and Scottish institutions."
+  },
+  {
+    "id": "bench_065",
+    "question": "What attributes characterized the female national allegories Marianne and Germania?",
+    "reference_answer": "Marianne symbolized liberty and the French Republic wearing a red cap and tricolour, while Germania wore a crown of German oak leaves denoting heroism."
+  },
+  {
+    "id": "bench_066",
+    "question": "Why did the Balkan region become an explosive source of nationalist conflict after 1871?",
+    "reference_answer": "Subject Slavic nationalities rebelled against the declining Ottoman Empire, while rival European powers competed intensely to dominate trade, ports, and territory."
+  },
+  {
+    "id": "bench_067",
+    "question": "What economic hardships did India face as a result of the First World War between 1913 and 1918?",
+    "reference_answer": "War financing led to increased customs duties, the introduction of income tax, doubling commodity prices, and widespread rural forced military recruitment."
+  },
+  {
+    "id": "bench_068",
+    "question": "What were the core tenets of Mahatma Gandhi's concept of Satyagraha?",
+    "reference_answer": "It emphasized the power of pure truth and non-violence, seeking to convince and appeal to the oppressor's conscience without physical force or vengeance."
+  },
+  {
+    "id": "bench_069",
+    "question": "What were the three early satyagraha campaigns organized by Gandhi in India between 1917 and 1918?",
+    "reference_answer": "The Champaran movement for indigo peasants in Bihar, the Kheda peasant satyagraha in Gujarat, and the Ahmedabad cotton mill workers' strike."
+  },
+  {
+    "id": "bench_070",
+    "question": "What powers were granted to the British colonial government by the Rowlatt Act of 1919?",
+    "reference_answer": "It allowed the colonial state to repress political actions and detain suspected political prisoners without trial for up to two years."
+  },
+  {
+    "id": "bench_071",
+    "question": "What declared objective motivated General Dyer's firing on peaceful crowds at Jallianwala Bagh?",
+    "reference_answer": "Dyer stated that his objective was to produce a moral effect and instill an unshakeable sense of terror and awe in the minds of satyagrahis."
+  },
+  {
+    "id": "bench_072",
+    "question": "Why did Mahatma Gandhi unite the national movement with the Khilafat agitation in 1920?",
+    "reference_answer": "He recognized that a successful nationwide mass struggle required bringing Hindus and Muslims together under a common political umbrella."
+  },
+  {
+    "id": "bench_073",
+    "question": "What core argument did Gandhi formulate in his 1909 book 'Hind Swaraj'?",
+    "reference_answer": "He declared that British rule was established and survived in India solely through Indian cooperation, and would collapse within a year if Indians refused to cooperate."
+  },
+  {
+    "id": "bench_074",
+    "question": "What grievances led the Awadh peasants under Baba Ramchandra to revolt against talukdars in 1920?",
+    "reference_answer": "Peasants faced exorbitant land rents, varied taxes, unpaid begar labor on landlord farms, and lacked security of tenure against sudden eviction."
+  },
+  {
+    "id": "bench_075",
+    "question": "How did Alluri Sitaram Raju lead the tribal uprising in the Gudem Hills of Andhra Pradesh?",
+    "reference_answer": "Revered as an incarnation with special powers, he praised Gandhi and khadi but organized armed guerrilla warfare to fight oppressive colonial forest restrictions."
+  },
+  {
+    "id": "bench_076",
+    "question": "Why did Mahatma Gandhi call an abrupt halt to the Non-Cooperation Movement in February 1922?",
+    "reference_answer": "A violent clash occurred at Chauri Chaura in Gorakhpur where a peaceful demonstration turned into a confrontation that burned down a police station."
+  },
+  {
+    "id": "bench_077",
+    "question": "Why did the arrival of the Simon Commission in 1928 trigger nationwide protests across India?",
+    "reference_answer": "The statutory commission was appointed to review India's constitutional governance but did not include a single Indian member."
+  },
+  {
+    "id": "bench_078",
+    "question": "What historic pledge was adopted at the Lahore session of the Congress in December 1929?",
+    "reference_answer": "Under Jawaharlal Nehru's presidency, the Congress formalized the goal of Purna Swaraj (complete independence) and designated 26 January 1930 as Independence Day."
+  },
+  {
+    "id": "bench_079",
+    "question": "Why did Gandhi select the salt tax as the focal point for launching the Civil Disobedience Movement?",
+    "reference_answer": "Salt was an essential item of food consumed equally by rich and poor, making its taxation and state production monopoly an oppressive symbol of British rule."
+  },
+  {
+    "id": "bench_080",
+    "question": "What were the terms of the Poona Pact concluded between Gandhi and Dr. B.R. Ambedkar in 1932?",
+    "reference_answer": "Ambedkar gave up separate electorates, and the Depressed Classes were granted reserved seats in legislative councils to be voted on by the general electorate."
+  },
+  {
+    "id": "bench_081",
+    "question": "How did Abanindranath Tagore depict the visual image of Bharat Mata in his 1905 painting?",
+    "reference_answer": "He portrayed her as an ascetic, serene, composed, and divine figure dispensing learning, food, and clothing to her people."
+  },
+  {
+    "id": "bench_082",
+    "question": "What cargo and cultural influences originally traveled along the ancient Silk Routes?",
+    "reference_answer": "Chinese silk, pottery, Indian spices, and textiles moved west, while gold and silver flowed east, accompanied by the spread of Buddhism, Christianity, and Islam."
+  },
+  {
+    "id": "bench_083",
+    "question": "How did the introduction of the potato alter European society before the mid-nineteenth century?",
+    "reference_answer": "The humble potato improved diets and life expectancy for Europe's poorest laborers, creating such dependency in Ireland that a crop famine in the 1840s caused a million deaths."
+  },
+  {
+    "id": "bench_084",
+    "question": "Why did European pathogens like smallpox prove more lethal to American native populations than military arms?",
+    "reference_answer": "Because indigenous Americans had lived in isolation for millennia and possessed no biological immunity against European germs, which decimated entire populations."
+  },
+  {
+    "id": "bench_085",
+    "question": "What were the British Corn Laws and what happened after their abolition in the nineteenth century?",
+    "reference_answer": "The laws restricted grain imports to protect British landowners; their repeal led to cheap food imports, uncultivated British farmland, and mass rural migration to cities and abroad."
+  },
+  {
+    "id": "bench_086",
+    "question": "How did refrigerated cargo ships revolutionize the transatlantic meat trade after the 1870s?",
+    "reference_answer": "Instead of shipping live animals that took excessive room or died, meat was slaughtered at origin and shipped frozen, lowering costs and making meat affordable for European workers."
+  },
+  {
+    "id": "bench_087",
+    "question": "How did the rinderpest cattle plague of the 1890s facilitate European colonisation of Africa?",
+    "reference_answer": "Rinderpest wiped out 90 percent of African cattle, destroying the livestock-based livelihood and forcing surviving Africans into the wage-labor market of colonial mines and plantations."
+  },
+  {
+    "id": "bench_088",
+    "question": "What cultural fusions developed among Indian indentured laborers working in the Caribbean?",
+    "reference_answer": "Migrants created syncretic cultural traditions like the carnival festival 'Hosay', the protest music of Rastafarianism, and Indo-Caribbean 'Chutney music'."
+  },
+  {
+    "id": "bench_089",
+    "question": "How did the British utilize their trade surplus with India during the late nineteenth century?",
+    "reference_answer": "Britain used its Indian trade surplus to settle multilateral trade deficits with other countries and finance 'home charges' such as pensions and debt interest."
+  },
+  {
+    "id": "bench_090",
+    "question": "How did Henry Ford adapt the meatpacking assembly line to automotive manufacturing in Detroit?",
+    "reference_answer": "He introduced a moving conveyor belt that forced workers to repeat a single mechanized task continuously, cutting car assembly time down to three minutes."
+  },
+  {
+    "id": "bench_091",
+    "question": "What twin financial crises triggered the global Great Depression in 1929?",
+    "reference_answer": "Agricultural overproduction that drove crop prices into a collapse, combined with the sudden withdrawal and recall of overseas investment loans by United States banks."
+  },
+  {
+    "id": "bench_092",
+    "question": "What key institutions were established at the Bretton Woods Conference in July 1944?",
+    "reference_answer": "The International Monetary Fund (IMF) to address balance-of-payments surpluses and deficits, and the World Bank to finance post-war economic reconstruction."
+  },
+  {
+    "id": "bench_093",
+    "question": "What was the system of proto-industrialisation in seventeenth- and eighteenth-century Europe?",
+    "reference_answer": "A decentralized commercial production network controlled by town merchants who supplied raw materials to rural farming families manufacturing goods in cottages rather than factories."
+  },
+  {
+    "id": "bench_094",
+    "question": "Why did Victorian industrialists frequently prefer manual human labor over mechanical equipment?",
+    "reference_answer": "Labor was abundant and cheap, many demands were seasonal (such as gas works or ship repair), and custom goods with intricate designs required handcrafting."
+  },
+  {
+    "id": "bench_095",
+    "question": "Why did British hand-spinning women attack James Hargreaves's Spinning Jenny after 1764?",
+    "reference_answer": "The machine allowed a single worker to spin numerous threads simultaneously with one wheel, threatening to eliminate the manual spinning jobs of rural women."
+  },
+  {
+    "id": "bench_096",
+    "question": "What role was played by a 'gomastha' in the East India Company's textile procurement?",
+    "reference_answer": "A gomastha was a company-appointed paid supervisor tasked with examining woven cloth quality, managing advances, and punishing village weavers who delayed supply."
+  },
+  {
+    "id": "bench_097",
+    "question": "How did the British textile boom in Manchester damage Indian handloom weavers during the nineteenth century?",
+    "reference_answer": "British tariffs shut out Indian exports while cheap, machine-made British textiles flooded Indian domestic markets, leading to the collapse of local weavers."
+  },
+  {
+    "id": "bench_098",
+    "question": "What was the function of a 'jobber' in early twentieth-century Indian industrial mills?",
+    "reference_answer": "A trusted veteran worker who recruited villagers for factory jobs, helped them secure housing, and provided emergency loans, often acquiring substantial control and demanding bribes."
+  },
+  {
+    "id": "bench_099",
+    "question": "How did Johannes Gutenberg adapt agricultural machinery to create the first movable printing press around 1448?",
+    "reference_answer": "He adapted the screw mechanism of an olive and wine press and cast movable lead molds for the twenty-six characters of the Roman alphabet to print sheets rapidly."
+  },
+  {
+    "id": "bench_100",
+    "question": "How did Martin Luther's publication of the 'Ninety-Five Theses' in 1517 spark the Protestant Reformation?",
+    "reference_answer": "His printed critique of Catholic rituals was posted in Wittenberg and rapidly reproduced across Europe, encouraging widespread theological debate that fractured the Roman Church."
+  }
+]

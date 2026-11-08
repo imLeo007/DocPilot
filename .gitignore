@@ -1,0 +1,60 @@
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# Python cache and compiled files
+
+__pycache__/
+*.pyc
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Testing and coverage
+
+.pytest_cache/
+.coverage/
+.coverage.*
+.deepeval/
+htmlcov/
+
+# Type checking and linting
+
+.mypy_cache/
+.ruff_cache/
+
+# Extras
+
+uploads/
+dataset1.json
+
+# Build artifacts
+
+build/
+dist/
+*.egg-infor/
+
+# User uploaded documents
+
+uploads/
+*.pdf
+
+.deepeval/
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
