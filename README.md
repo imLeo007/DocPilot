@@ -121,7 +121,7 @@ docpilot/
 │   │   ├── embedding.py       # SentenceTransformer vector embeddings
 │   │   ├── reranker.py        # CrossEncoder scoring model
 │   │   └── retriever.py       # Hybrid search (pgvector + tsvector) & RRF
-│   ├── api/
+│   ├── router/
 │   │   ├── document.py        # Document upload and parsing endpoints
 │   │   └── question.py        # Question retrieval endpoints
 │   ├── core/
@@ -130,10 +130,13 @@ docpilot/
 │   ├── models/
 │   │   ├── chunks.py          # Dual-indexed chunk table (HNSW + GIN)
 │   │   └── document.py        # Document metadata table
-|   ├── services/
-|   |   ├── chunker.py         # Chunk page text
-|   |   ├── document.py             # Document fetching services
-|   |   └── pdf.py             # Docling parser integration
+│   ├── schemas/
+│   │   ├── document.py        # Document pydantic Schemas
+│   │   └── retriever.py       # Retriever pydantic schemas
+│   ├── services/
+│   │   ├── chunker.py         # Chunk page text
+│   │   ├── document.py        # Document fetching services
+│   │   └── pdf.py             # Docling parser integration
 │   └── main.py                # FastAPI entrypoint
 ├── evaluation/
 │   ├── dataset.json           # 100-question ground truth dataset
