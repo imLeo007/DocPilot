@@ -132,7 +132,7 @@ docpilot/
 │   │   └── document.py        # Document metadata table
 |   ├── services/
 |   |   ├── chunker.py         # Chunk page text
-|   |   ├── pdf.py             # Document fetching services
+|   |   ├── document.py             # Document fetching services
 |   |   └── pdf.py             # Docling parser integration
 │   └── main.py                # FastAPI entrypoint
 ├── evaluation/
