@@ -61,13 +61,13 @@ The fused candidate pool is passed to an ONNX-optimized Cross-Encoder model. The
 ![DocPilot Pipeline](screenshots/workflow.png)
 *The end-to-end flow from document upload to dual-index storage, hybrid retrieval, and final reranking.*
 
-### Benchmark Evaluation
-![Evaluation Results](screenshots/benchmark.png)
-*Automated evaluation run using DeepEval measuring contextual retrieval performance.*
-
 ### Interactive API Preview
 ![Swagger UI](screenshots/preview.png)
 *FastAPI interactive documentation interface for uploading documents and running searches.*
+
+### Benchmark Evaluation
+![Evaluation Results](screenshots/benchmark.png)
+*Automated evaluation run using DeepEval measuring contextual retrieval performance.*
 
 ---
 
@@ -100,6 +100,49 @@ flowchart LR
 * **Query Latency:** The entire hybrid search, RRF merge, and reranker pass executes in under **250 milliseconds**.
 
 ---
+
+## Architectural Comparison: GroundForge vs. DocPilot
+
+| Aspect | GroundForge (Prototype) | DocPilot (This project) |
+| :--- | :--- | :--- |
+| **Primary Goal** | Deep document parsing prototype | Ultra-lightweight agent retrieval sidecar |
+| **PDF Extraction** | Docling (layout & structure aware) | PyMuPDF (compiled C-speed extraction) |
+| **Model Runtime** | Native PyTorch (CPU) | Pure ONNX Runtime (Zero-Torch dependency) |
+| **Memory Footprint** | ~1.8 GB – 2.4 GB RAM | **~280 MB – 320 MB RAM** |
+| **Retrieval Speed** | Standard (~150ms – 250ms) | **Sub-50ms** |
+| **Recommended For** | Layout-heavy documents, deep parsing research | Fast, low-memory tool for Agno & LangGraph |
+
+## Project Structure
+
+```
+groundforge/
+├── app/
+│   ├── ai/
+│   │   ├── embedding.py       # SentenceTransformer vector embeddings
+│   │   ├── reranker.py        # CrossEncoder scoring model
+│   │   └── retriever.py       # Hybrid search (pgvector + tsvector) & RRF
+│   ├── api/
+│   │   ├── document.py        # Document upload and parsing endpoints
+│   │   └── question.py        # Question retrieval endpoints
+│   ├── core/
+│   │   ├── config.py          # Environment settings
+│   │   └── database.py        # Database initialization
+│   ├── models/
+│   │   ├── chunks.py          # Dual-indexed chunk table (HNSW + GIN)
+│   │   └── document.py        # Document metadata table
+|   ├── services/
+|   |   ├── chunker.py         # Chunk page text
+|   |   ├── pdf.py             # Document fetching services
+|   |   └── pdf.py             # Docling parser integration
+│   └── main.py                # FastAPI entrypoint
+├── evaluation/
+│   ├── dataset.json           # 100-question ground truth dataset
+│   ├── evaluator.py           # DeepEval precision and recall runner
+│   └── judge.py               # Custom structured LLM judge
+├── docker-compose.yml
+├── Dockerfile
+└── requirements.txt
+```
 
 ## How to Run
 
