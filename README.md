@@ -115,7 +115,7 @@ flowchart LR
 ## Project Structure
 
 ```
-groundforge/
+docpilot/
 ├── app/
 │   ├── ai/
 │   │   ├── embedding.py       # SentenceTransformer vector embeddings
